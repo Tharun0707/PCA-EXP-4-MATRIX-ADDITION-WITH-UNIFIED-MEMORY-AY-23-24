@@ -520,9 +520,11 @@ int main(int argc, char **argv)
 ## OUTPUT:
 
 **With Memset()**
+
 <img width="620" height="100" alt="image" src="https://github.com/user-attachments/assets/7d586896-eb9d-4797-974f-39fc1d7e3871" />
 
 **Without Memset()**
+
 <img width="630" height="101" alt="image" src="https://github.com/user-attachments/assets/8defaa3f-6d17-456f-97d6-00016ada245e" />
 
 
